@@ -1,0 +1,19 @@
+RankedEdge:
+{'pathLengthSTD': 0.0, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.96, 'testName': 'minimal', 'avgPathLength': 12.0}
+{'pathLengthSTD': 0.9958591954639383, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.88, 'testName': 'simple', 'avgPathLength': 12.909090909090908}
+{'pathLengthSTD': 0.9888468117976382, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.94, 'testName': 'medium', 'avgPathLength': 13.148936170212766}
+{'pathLengthSTD': 5.451828373404113, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.86, 'testName': 'fullGrid', 'avgPathLength': 20.64179104477612}
+{'pathLengthSTD': 4.272001872658765, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.94, 'testName': 'span', 'avgPathLength': 15.5}
+{'pathLengthSTD': 2.1122233791211062, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.56, 'testName': 'eu', 'avgPathLength': 18.418181818181818}
+{'pathLengthSTD': 0.6959705453537527, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.96, 'testName': 'bgp2000', 'avgPathLength': 5.625}
+{'pathLengthSTD': 1.8662946057778649, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 1.0, 'testName': 'bgp2006', 'avgPathLength': 6.183333333333334}
+
+Negative Ant:
+{'pathLengthSTD': 0.0, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.98, 'testName': 'minimal', 'avgPathLength': 12.0}
+{'pathLengthSTD': 0.9780578828587918, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.96, 'testName': 'simple', 'avgPathLength': 13.208333333333334}
+{'pathLengthSTD': 0.9871170143402452, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 1.0, 'testName': 'medium', 'avgPathLength': 13.16}
+{'pathLengthSTD': 5.42917991164702, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.88, 'testName': 'fullGrid', 'avgPathLength': 20.25925925925926}
+{'pathLengthSTD': 3.4222022478196314, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.92, 'testName': 'span', 'avgPathLength': 14.864864864864865}
+{'pathLengthSTD': 4.128896212490453, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.76, 'testName': 'eu', 'avgPathLength': 19.710526315789473}
+{'pathLengthSTD': 0.9020751699212022, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.96, 'testName': 'bgp2000', 'avgPathLength': 5.831578947368421}
+{'pathLengthSTD': 1.955341679146137, 'successSTD': 0.0, 'pathEntropy': 0.0, 'successRate': 0.98, 'testName': 'bgp2006', 'avgPathLength': 6.17741935483871}
